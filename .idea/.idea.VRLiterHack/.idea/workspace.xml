@@ -19,41 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5c2c60b-51af-4a7d-b130-d09b7aa10321" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Audio.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/1 (интро).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/1 (интро).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/2 (вешалка).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/2 (вешалка).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/3 (рабочее место).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/3 (рабочее место).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/4 (детская комната).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/4 (детская комната).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/5 (комната с абажуром).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/5 (комната с абажуром).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/6 (сундук).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/6 (сундук).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/7 (pianino).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/7 (pianino).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/8 (стол и стулья).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/8 (стол и стулья).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/9 (часы).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Audio/9 (часы).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuestItem.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/QuestItem.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/QuestItem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/QuestItem.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Storage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Storage.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UpdateScore.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UpdateScore.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VRLiterHack/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VRLiterHack/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VRLiterHack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VRLiterHack/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-    </list>
+    <list default="true" id="c5c2c60b-51af-4a7d-b130-d09b7aa10321" name="Default Changelist" comment="Add QuestItem" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,8 +87,16 @@
       <option name="presentableId" value="Default" />
       <updated>1601754808937</updated>
       <workItem from="1601754816839" duration="1095000" />
-      <workItem from="1601795874261" duration="2852000" />
+      <workItem from="1601795874261" duration="3112000" />
     </task>
+    <task id="LOCAL-00001" summary="Add QuestItem">
+      <created>1601801265663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601801265666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,12 +117,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add QuestItem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add QuestItem" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601796052877">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601801266922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.252.1600.860@0.0.1920.1040" timestamp="1601796052877" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.252.1600.860@0.0.1920.1040" timestamp="1601801266922" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1601796056725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
